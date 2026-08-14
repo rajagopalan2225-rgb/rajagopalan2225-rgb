@@ -1,4 +1,4 @@
-# Hi, I'm Rajagopalan 👋
+# Hi, I'm Rajagopalan 
 
 ### B.Tech IT Student | Full-Stack Developer | Java | Python | AI/ML
 
@@ -7,11 +7,11 @@ applications and solving real-world problems through technology.
 
 ## About Me
 
-- 🎓 B.Tech Information Technology
-- 💻 Interested in Full-Stack Development
-- 🧠 Exploring AI/ML and Computer Vision
-- 🌱 Currently improving my Java, DSA and backend development skills
-- 🚀 Building real-world academic and personal projects
+- B.Tech Information Technology
+- Interested in Full-Stack Development
+- Exploring AI/ML and Computer Vision
+- Currently improving my Java, DSA and backend development skills
+- Building real-world academic and personal projects
 
 ## Tech Stack
 
