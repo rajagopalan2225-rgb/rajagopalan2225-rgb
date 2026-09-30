@@ -1,4 +1,4 @@
-# Hi, I'm Rajagopalan 
+# Hi, I'm Raja Gopalan 
 
 ### B.Tech IT Student | Full-Stack Developer | Java | Python | AI/ML
 
